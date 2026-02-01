@@ -31,12 +31,19 @@ Each application:
 - Is released as a working demo for real-world testing
 - Focuses on usefulness and decision support
 - Keeps core logic and internal implementation private
+  
+## AI Models & Tooling
+Some applications leverage large language models (LLMs) such as **Gemini 2.5** to support analysis, reasoning, or content generation.
+Models are used as assisting components within a broader product flow — not as standalone outputs.
+Exact prompts, configurations, and internal logic are intentionally not disclosed.
 
 ---
 
 ## 🔓 Public Demos
 
-Some applications are deployed as public demos to allow testing and feedback.  
+🔓 Public Demos
+Some applications are deployed as public demos to allow testing and feedback.
+They may utilize AI models (e.g., Gemini 2.5) for specific tasks.
 Source code, prompts, and internal logic are intentionally not shared.
 
 
@@ -57,6 +64,4 @@ Please avoid submitting sensitive or personal data.
 This repository documents a personal challenge.  
 Ideas and demos may not be reused or commercialized without permission.
 
----
-
-*One day. One product. Focused execution.*
+AI-generated outputs may be incomplete, approximate, or biased and should be interpreted accordingly.
